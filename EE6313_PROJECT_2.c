@@ -1,6 +1,5 @@
 /////CACHE PROJECT EE6313
 ///SHIKHAR TANDON
-///ABHISHEKH ANAND
 #include<math.h>
 #include<conio.h>
 #include<stdio.h>
